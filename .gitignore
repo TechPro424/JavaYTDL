@@ -7,3 +7,5 @@ build
 *.zip
 videos/
 videos
+
+.env
